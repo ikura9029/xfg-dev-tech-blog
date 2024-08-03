@@ -39,7 +39,7 @@ highlights:
         
       - title: 博客
         icon: table-columns
-        details: 24年6月，通过线上部署博客，记录平时浏览的知识，努力提升自己。
+        details: 24年6月，通过线上部署博客，记录平时浏览的知识，努力提升自己
         link: http://116.198.205.154/
 
 copyright: false
