@@ -24,7 +24,7 @@ highlights:
     features:
       - title: 一灯通智慧记
         icon: box-archive
-        details: 23年6月，第一次正式做基于SpringBoot的项目，是一款集成了角色管理、商品进销存统一管控的仓库管理软件。
+        details: 23年6月，第一次正式做基于SpringBoot的项目，是一款集成了角色管理、商品进销存统一管控的仓库管理软件
         link: https://theme-hope.vuejs.press/zh/guide/markdown/others.html#link-check
 
       - title: 微信公众号 - 云通OA 
