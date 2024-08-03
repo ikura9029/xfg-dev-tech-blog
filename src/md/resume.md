@@ -62,7 +62,7 @@ category:
 - 了解JVM双亲委派机制、类加载过程、垃圾回收算法
 - 熟悉Spring、SpringMVC、SpringBoot、MyBatis/Plus等框架，掌握SpringSecurity+OAuth2
 - 掌握SpringCloudAlibaba系列微服务七大组件，能编写简单的案例Demo
-- 熟练运用DDD四层架构领域驱动设计，构建出易于迭代和维护的工程架构，遵守整洁代码、洋葱架构设计思想。
+- 熟练运用DDD四层架构领域驱动设计，构建出易于迭代和维护的工程架构。
 - 熟练使用MySQL，掌握MySQL事务、索引、锁，了解简单的SQL优化手段
 - 熟悉Redis的使用，掌握常用数据类型、理解持久化机制、缓存等相关问题
 - 掌握Linux操作系统，能使用常用命令操作，了解Docker，能够实现基于docker+Jenkins实现自动化部署
