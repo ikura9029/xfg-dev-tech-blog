@@ -34,7 +34,7 @@ highlights:
 
       - title: 营销系统抽奖平台
         icon: table-columns
-        details: 24年1月，以DDD领域驱动设计架构，开发完成分布式抽奖系统，运用了全面的分布式技术栈。
+        details: 24年1月，以DDD领域驱动设计架构，开发完成分布式抽奖系统，运用了全面的分布式技术栈
         link: http://116.198.205.154:3000/
         
       - title: 博客
