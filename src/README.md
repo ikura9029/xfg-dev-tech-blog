@@ -8,7 +8,7 @@ bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
   background-attachment: fixed
 heroText: 我的博客简历
-tagline: 您好，我叫孙禹，就读于🎓临沂大学 25届学生。在校期间积累了编程经验，可熟练运用主流技术栈，做过多个项目和App等。
+tagline: 您好，我叫孙禹，就读于🎓临沂大学 25届学生。拥有三个月Java相关研发部门的实习经验，可熟练运用主流技术栈，做过多个项目等
 actions:
   - text: 查看简历 👣
     link: ./md/
@@ -24,34 +24,38 @@ highlights:
     features:
       - title: 一灯通智慧记
         icon: box-archive
-        details: 23年6月，第一次正式做基于SpringBoot的项目，是一款集成了角色管理、商品进销存统一管控的仓库管理软件
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/others.html#link-check
+        details: 23年5月，第一次正式做基于SpringBoot的项目，是一款集成了角色管理、商品进销存统一管控的仓库管理软件
 
       - title: 微信公众号 - 云通OA 
         icon: comment-dots
-        details: 23年9月，学习了更多的技术栈，完整实现了一个远程办公管理系统，集成官方的测试版微信公众号。
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/container.html
+        details: 23年7月，学习了更多的技术栈，完整实现了一个远程办公管理系统，集成官方的测试版微信公众号。
 
       - title: 营销系统抽奖平台
         icon: table-columns
-        details: 24年1月，以DDD领域驱动设计架构，开发完成分布式抽奖系统，运用了全面的分布式技术栈
-        link: http://116.198.205.154:3000/
+        details: 23年11月，以DDD领域驱动设计架构，开发完成分布式抽奖系统，运用了全面的分布式技术栈
+        
+      - title: 业务流程透视监控系统 
+        icon: box-archive
+        details: 24年3月，第一次正式做基于SpringBoot的项目，是一款集成了角色管理、商品进销存统一管控的仓库管理软件
         
       - title: 博客
         icon: table-columns
-        details: 24年6月，通过线上部署博客，记录平时浏览的知识，努力提升自己
-        link: http://116.198.205.154/
+        details: 24年8月，通过线上部署博客，记录平时浏览的知识，努力提升自己
 
 copyright: false
 footer: |-
-  <div class="content"><a href="http://beian.miit.gov.cn" target="_blank">京ICP备1903****号</a> | MIT 协议, 版权所有 © 2023 你的名字，All rights reserved.</div>
+  <div class="content"><a href="http://beian.miit.gov.cn" target="_blank"></a> MIT 协议, 版权所有 © 2023 孙禹，All rights reserved.</div>
 ---
 
 <br/>
 
 ::: tip
 
-个人在大学/实习期间，做过多个项目，熟练使用各类技术框架，积累了开发经验。同时兼具着对技术的喜爱，长期对技术进行钻研学习吸收其中的设计精髓。
+个人在大学/实习期间，做过多个项目，熟练使用各类技术框架，积累了开发经验。
+1、拥有三个月Java相关研发部门的实习经验，独自调试寻找bug和前端沟通联调的技术经验
+2、做过23年科创、24年大创等项目的团队主持人
+3、喜欢编程开发，平时也做过小组件、App等小项目，拥有创作欲
+4、部署上线了自己的博客：http://116.198.205.154/
 
 :::
 
