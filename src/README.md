@@ -21,27 +21,27 @@ highlights:
     features:
       - title: 一灯通智慧记
         icon: box-archive
-        details: 23年5月，第一次正式做基于SpringBoot的项目，是一款集成了角色管理、商品进销存统一管控的仓库管理软件
+        details: 23年4月，第一次正式做基于SpringBoot的项目，是一款集成了角色管理、商品进销存统一管控的仓库管理软件
 
       - title: 微信公众号 - 云通OA
         icon: comment-dots
-        details: 23年7月，学习了更多的技术栈，完整实现了一个远程办公管理系统，集成官方的测试版微信公众号。
+        details: 23年6月，学习了更多的技术栈，完整实现了一个远程办公管理系统，集成官方的测试版微信公众号。
 
-      - title: 营销系统抽奖平台
+      - title: 悦动营销平台
         icon: table-columns
-        details: 23年11月，以DDD领域驱动设计架构，开发完成分布式抽奖系统，运用了全面的分布式技术栈
+        details: 23年10月，以DDD领域驱动设计架构，开发完成分布式抽奖系统，运用了全面的分布式技术栈
 
       - title: 业务流程透视监控系统
         icon: box-archive
-        details: 24年3月，做个用于抽奖业务的透视小组件
+        details: 24年4月，用于抽奖业务的透视小组件
 
       - title: 博客
         icon: table-columns
-        details: 24年8月，通过线上部署博客，记录平时浏览的知识，努力提升自己
+        details: 24年7月，通过线上部署博客，记录平时浏览的知识，努力提升自己
 
 copyright: false
 footer: |-
-  <div class="content"><a href="http://beian.miit.gov.cn" target="_blank"></a> MIT 协议, 版权所有 © 2023 孙禹，All rights reserved.</div>
+  <div class="content"><a href="http://beian.miit.gov.cn" target="_blank"></a>  版权所有 © 2025 孙禹，All rights reserved.</div>
 ---
 
 <br/>
