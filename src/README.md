@@ -33,7 +33,7 @@ highlights:
         
       - title: 业务流程透视监控系统 
         icon: box-archive
-        details: 24年3月，第一次正式做基于SpringBoot的项目，是一款集成了角色管理、商品进销存统一管控的仓库管理软件
+        details: 24年3月，做个用于抽奖业务的透视小组件
         
       - title: 博客
         icon: table-columns
